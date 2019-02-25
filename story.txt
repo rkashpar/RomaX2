@@ -1,1 +1,3 @@
 Bobby is a sophomore at UW Madison studying computer science. He finally gets to take CS400, a class he's heard many good things about and can't wait to get into. The first few weeks go by fine, but then the first program makes things quite interesting. He's finished up almost all of his code and tests but has a bug that's making a tiny part of his implementation go all wrong.
+
+One voice inside Bobby says: 'Hey, you should go search the problem on Interenet, there are a whole bunch of Binary Search Tree implementation, just copy one, pass the test and no one will find out!' However, Bobby decides he can figure the problem out on himself. He believes the point of writing codes is not to pass some tests and programming is not an art of copy and paste. 
