@@ -4,5 +4,6 @@ program makes things quite interesting. He's finished up almost all of his code 
 that's making a tiny part of his implementation go all wrong.
 
 One voice inside Bobby says: 'Hey, you should go search the problem on Interenet, there are a whole bunch of Binary Search Tree implementation, just copy one, pass the test and no one will find out!' However, Bobby decides he can figure the problem out on himself. He believes the point of writing codes is not to pass some tests and programming is not an art of copy and paste. 
+But Bobby was still trying to find some luck, so he found a website that contains some seemingly correct codes in it and copied their code implementation of BST into his own program. However when he tried to run this code, the inner built Eclipse plagarism alarm went off. An AI called Deb popped up:" Warning! Warning! Caught plagarism! Caught plagarism!" Bobby almost fell from his chair and screamed with extreme fear. He then quickly deleted everything and the alarm was finally turned off. He found his forehead covered with sweat. 
 
 Bobby reviews some of the notes that he took in class and gets his questions answered. He writes his code while reviewing his notes to make sure that everything will work. To his suprise, his code passes all of his tests!
