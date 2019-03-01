@@ -7,3 +7,5 @@ One voice inside Bobby says: 'Hey, you should go search the problem on Interenet
 But Bobby was still trying to find some luck, so he found a website that contains some seemingly correct codes in it and copied their code implementation of BST into his own program. However when he tried to run this code, the inner built Eclipse plagarism alarm went off. An AI called Deb popped up:" Warning! Warning! Caught plagarism! Caught plagarism!" Bobby almost fell from his chair and screamed with extreme fear. He then quickly deleted everything and the alarm was finally turned off. He found his forehead covered with sweat. 
 
 Bobby reviews some of the notes that he took in class and gets his questions answered. He writes his code while reviewing his notes to make sure that everything will work. To his suprise, his code passes all of his tests!
+
+Finally, Bobby can submit the program and wait for his grade. He feels great since he did the work himself and figured out how to make the code work. His hard work pays off and he gets an A on the program!
